@@ -1,4 +1,4 @@
-# How to install oTrail
+# How to install oTail
 
 ## Download
 ```
